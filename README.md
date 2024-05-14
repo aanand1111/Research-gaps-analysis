@@ -51,12 +51,19 @@ Further research is needed to evaluate the performance of deep learning models o
 
 ## Explanation and Way to fill the gaps:
 •	For the given Research paper, the research gaps could be filled in several ways. One way is to address the need for more multilingual datasets, which are not widely available. These datasets can be collected and annotated by researchers and data enthusiasts.
+
 •	Another approach could be to evaluate the performance of different deep learning models, such as BERT and RoBERTa, on multilingual hate speech detection datasets. This can be done by comparing their performance metrics, such as accuracy, precision, recall, and F1-score.
+
 •	Additionally, further research could be conducted on evaluating the performance of these models in different domains and contexts, such as online platforms, social media networks, and news websites. This could involve evaluating their performance on hate speech detection in real-time scenarios and understanding the factors that contribute to their effectiveness.
+
 •	Another research gap that could be addressed is the need for more diverse datasets. This can be achieved by collecting and annotating datasets from diverse linguistic and cultural backgrounds. These datasets can then be used to train deep learning models for hate speech detection, leading to more accurate and reliable models.
+
 •	Furthermore, the effectiveness of pre-trained models and their ability to adapt to new languages could be investigated. This can be done by fine-tuning pre-trained models on new datasets and evaluating their performance.
+
 •	Finally, the research gaps in the given paper could be addressed by investigating the limitations of current deep learning models in detecting hate speech. This can involve studying the types of hate speech that these models struggle to detect and understanding the reasons behind their inadequacy. This can lead to the development of more effective models and techniques for detecting hate speech.
+
 •	These approaches can be complemented by exploring other aspects of hate speech detection, such as detecting the presence of toxicity and other harmful behaviors in online discussions. This can be done by training deep learning models on datasets containing examples of toxicity and other harmful behaviors. These models can then be used to detect hate speech, toxicity, and other harmful behaviors in online discussions.
+
 •	This approach involves conducting further research in the area of hate speech detection, particularly in multilingual settings, and exploring other aspects of hate speech detection that have not been thoroughly investigated in the literature. It aims to address the research gaps identified in the given Research paper and contribute to the advancement of the field of hate speech detection.
 
 
